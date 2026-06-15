@@ -19,6 +19,24 @@ The goal was simple: take a camera input, recognize a hand gesture, and convert 
 
 ---
 
+**EN:** How does opencv gesture recognition look like:
+
+**RU:** Как выглядит распознавание жестов с помощью opencv:
+
+![](./media/opencv-gest.gif)
+
+---
+
+**EN:** How does mediapipe dynamic gesture recognition look like:
+
+**RU:** Как выглядит распознавание жестов с помощью mediapipe:
+
+![](./media/mp-on.gif)
+![](./media/mp-bright.gif)
+
+
+---
+
 ## Why I made it  
 ## Зачем я это сделал
 
