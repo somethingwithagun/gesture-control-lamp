@@ -23,7 +23,7 @@ The goal was simple: take a camera input, recognize a hand gesture, and convert 
 
 **RU:** Как выглядит распознавание жестов с помощью opencv:
 
-![](./media/opencv-gest.gif)
+![](https://github.com/somethingwithagun/gesture-control-lamp/blob/master/media/opencv-gest.gif)
 
 ---
 
@@ -31,8 +31,8 @@ The goal was simple: take a camera input, recognize a hand gesture, and convert 
 
 **RU:** Как выглядит распознавание жестов с помощью mediapipe:
 
-![](./media/mp-on.gif)
-![](./media/mp-bright.gif)
+![](https://github.com/somethingwithagun/gesture-control-lamp/blob/master/media/mp-on.gif)
+![](https://github.com/somethingwithagun/gesture-control-lamp/blob/master/media/mp-bright.gif)
 
 
 ---
